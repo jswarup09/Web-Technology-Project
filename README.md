@@ -1,4 +1,4 @@
 # Web-Technology-Project
-This is a Scitific Calculator Project
+This is a Scientific Calculator Project
 
 
