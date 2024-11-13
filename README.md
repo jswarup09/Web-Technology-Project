@@ -1,4 +1,4 @@
-# Web-Technology-Project
-This is a Scientific Calculator Project
+# Project 1
+This is a Job Application Form Project
 
 
